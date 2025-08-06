@@ -1,0 +1,26 @@
+{
+  "email": "ivan@example.com",
+  "name": "Иван",
+  "patronymic": "Иванович",
+  "surname": "Иванов",
+  "password": "StrongPassword123",
+  "password_repeat": "StrongPassword123"
+}
+
+{
+  "email": "starmixden@gmail.com",
+  "name": "Михаил",
+  "patronymic": "Денисович",
+  "surname": "Ковалёв",
+  "password": "StrongPassword123",
+  "password_repeat": "StrongPassword123"
+}
+
+{
+  "email": "test@example.com",
+  "name": "Тестиролик",
+  "patronymic": "Роликович",
+  "surname": "Теститский",
+  "password": "Salam00",
+  "password_repeat": "Salam00"
+}
